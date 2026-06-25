@@ -19,11 +19,11 @@ The core objective during this challenge is to utilize this 30 pin bus to design
    
    1 empty pin - pin 27 on the bus is not connected to anything on the addition board. This pin could be used for extra inputs if the current number does not satisfy needs in the future.
 
-4. The interactive Heirarchical Schematic
+# 3. The Heirarchical Schematic
 
    The complex routing and page-to-page organisaton of the relay networks were designed completely within the KiCad schematic editor using heirarchical sheets
 
-# To access this, open the interactive schematic PDF in the repository
+# To access this, open the schematic PDF in the repository
 
 
 # Mission Roadmap and Milestone Tracking
