@@ -39,3 +39,6 @@ The core objective during this challenge is to utilize this 30 pin bus to design
 [ ] Phase 5: Microprocessor Integration - Connect an ESP32 or Raspberry Pi to the bus. Use the microprocessor for simple looping, storing values and more complex calculations
 
 [ ] Phase 6: Relay ALU - Move away from microprocessors and create a full ALU from relays
+
+
+The BOM .csv file for the mainboard is in this repository.
